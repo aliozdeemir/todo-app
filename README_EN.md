@@ -15,7 +15,6 @@ This is a fully featured Todo application built with Flutter. The app allows use
 
 - **Task Management**: Create, edit, delete and mark tasks as completed
 - **Due Date and Time**: Set due date and time for tasks
-- **Light/Dark Theme**: Switch between light and dark themes
 - **Multilingual Support**: Available in English and Turkish
 - **Local Storage**: Tasks are stored locally using Hive database
 - **Search Functionality**: Search through your tasks
