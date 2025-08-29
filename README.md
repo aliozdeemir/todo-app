@@ -22,7 +22,7 @@ Bu, Flutter ile geliştirilmiş, tam özellikli bir Todo uygulamasıdır. Uygula
 - **Duyarlı Tasarım**: Farklı ekran boyutlarına uyum sağlar
 
 ## Ekran Görüntüleri
-
+<p>
 <img src="screenshots/Screenshot_1756467706.png" width="240"/>
 <img src="screenshots/Screenshot_1756467711.png" width="240"/>
 <img src="screenshots/Screenshot_1756468197.png" width="240"/>
@@ -45,6 +45,7 @@ Bu, Flutter ile geliştirilmiş, tam özellikli bir Todo uygulamasıdır. Uygula
 <img src="screenshots/Screenshot_1756468637.png" width="240"/>
 <img src="screenshots/Screenshot_1756468640.png" width="240"/>
 <img src="screenshots/Screenshot_1756468647.png" width="240"/>
+</p>
 
 ## Kullanılan Teknolojiler
 
