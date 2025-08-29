@@ -1,0 +1,11 @@
+{
+  "title": "What will you do today?",
+  "empty_task_list": "Let's add a task!",
+  "add_task": "What is your task?",
+  "remove_task": "This task has been removed.",
+  "date_time_picker": "Select Date & Time",
+  "save": "Save",
+  "delete_task": "Delete this task",
+  "deleted_task": "This task has been deleted.",
+  "undo": "Undo"
+}

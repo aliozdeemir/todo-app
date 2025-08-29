@@ -1,0 +1,11 @@
+{
+  "title": "Bugün ne yapacaksın?",
+  "empty_task_list": "Hadi bir görev ekle!",
+  "add_task": "Görev Nedir?",
+  "remove_task": "Bu görev kaldırıldı.",
+  "date_time_picker": "Tarih & Saat Seç",
+  "save": "Kaydet",
+  "delete_task": "Bu görevi sil",
+  "deleted_task": "Bu görev silindi.",
+  "undo": "Geri Al"
+}
