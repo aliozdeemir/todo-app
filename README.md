@@ -88,7 +88,7 @@ lib/
 
 1. Depoyu klonlayın
 ```bash
-git clone https://github.com/kullaniciadi/todo_app.git
+git clone https://github.com/aliozdeemir/todo_app.git
 ```
 
 2. Proje klasörüne gidin
