@@ -15,7 +15,6 @@ Bu, Flutter ile geliştirilmiş, tam özellikli bir Todo uygulamasıdır. Uygula
 
 - **Görev Yönetimi**: Görev oluşturma, düzenleme, silme ve tamamlandı olarak işaretleme
 - **Tarih ve Zaman**: Görevler için son tarih ve saat belirleme
-- **Açık/Koyu Tema**: Açık ve koyu temalar arasında geçiş yapabilme
 - **Çoklu Dil Desteği**: İngilizce ve Türkçe dil seçenekleri
 - **Yerel Depolama**: Görevler Hive veritabanı kullanılarak yerel olarak saklanır
 - **Arama İşlevi**: Görevler arasında arama yapabilme
