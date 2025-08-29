@@ -1,6 +1,6 @@
 # ToDo App
 
-<p align="left">
+<p align="right">
   <a href="README.md">TR Türkçe</a>
 </p>
 
