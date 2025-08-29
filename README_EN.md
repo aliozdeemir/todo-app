@@ -22,7 +22,7 @@ This is a fully featured Todo application built with Flutter. The app allows use
 - **Responsive Design**: Adapts to different screen sizes
 
 ## Screenshots
-
+<p>
 <img src="screenshots/Screenshot_1756467706.png" width="240"/>
 <img src="screenshots/Screenshot_1756467711.png" width="240"/>
 <img src="screenshots/Screenshot_1756468197.png" width="240"/>
@@ -45,6 +45,7 @@ This is a fully featured Todo application built with Flutter. The app allows use
 <img src="screenshots/Screenshot_1756468637.png" width="240"/>
 <img src="screenshots/Screenshot_1756468640.png" width="240"/>
 <img src="screenshots/Screenshot_1756468647.png" width="240"/>
+</p>
 
 ## Technologies Used
 
